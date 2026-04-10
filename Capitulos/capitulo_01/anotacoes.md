@@ -38,7 +38,7 @@
 - **O(n)**: Tempo linear ( Busca Simples).
 - **O(n * log n)**: Algoritmo rápido de ordenação ( Quicksort ). => Será explicado no cap.4
 - **O(n ao quadrado)**: Algoritmo lento de ordenação ( Seleção ). => Será explicado no cap2
-- **(O n!)**: Alogitmo muito lento (Caixeiro viajante).
+- **(O n!)**: Algoritmo muito lento (Caixeiro viajante).
 
 ### Caxeiro viajante
 - Famoso problema da ciência da computação => " O problema do caixeiro-viajante "
