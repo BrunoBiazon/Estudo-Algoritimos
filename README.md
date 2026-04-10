@@ -1,5 +1,4 @@
-# 📘 Algorithms and Data Structures
-
+# 📘 Algorithms 
 Repositório dedicado ao estudo de algoritmos e estruturas de dados com base no livro **"Entendendo Algoritmos"** de Aditya Y. Bhargava.
 
 ## 🚀 Objetivo
