@@ -12,3 +12,9 @@ Este repositório tem como objetivo:
 
 ## Estrutura de estudo
 - A cada capítulo eu crio uma pasta: contendo um arquivo de anotações e um para práticar o algoritmo na linguagem java
+  
+| Capítulos | Conteúdo | Anotações | Prática |
+| :--- | :--- | :--- | :--- |
+| Capítulo 1 | Busca Binária e Big O | [Anotações](./Capitulos/capitulo_01/anotacoes.md) | [Java](./Capitulos/capitulo_01/BuscaBinaria.java) |
+| Capítulos 2 | Ordenação por Seleção | - | -|
+| Capítulos 3 | - | - | - |
