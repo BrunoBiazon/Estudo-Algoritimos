@@ -1,4 +1,6 @@
 # 📘 Algorithms 
+<img width="251" height="350" alt="image" src="https://github.com/user-attachments/assets/00c9bb54-13e6-4b4e-8796-205e22245fea" />
+
 Repositório dedicado ao estudo de algoritmos e estruturas de dados com base no livro **"Entendendo Algoritmos"** de Aditya Y. Bhargava.
 
 ## 🚀 Objetivo
