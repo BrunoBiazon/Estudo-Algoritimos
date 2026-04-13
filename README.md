@@ -9,3 +9,6 @@ Este repositório tem como objetivo:
 - Implementar algoritmos clássicos  
 - Entender complexidade de tempo e espaço  
 - Criar uma base sólida para entrevistas técnicas  
+
+## Estrutura de estudo
+- A cada capítulo eu crio uma pasta: contendo um arquivo de anotações e um para práticar o algoritmo na linguagem java
