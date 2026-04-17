@@ -18,5 +18,5 @@ Este repositório tem como objetivo:
 | Capítulos | Conteúdo | Anotações | Prática |
 | :--- | :--- | :--- | :--- |
 | Capítulo 1 | Busca Binária e Big O | [Anotações](./Capitulos/capitulo_01/anotacoes.md) | [Java](./Capitulos/capitulo_01/BuscaBinaria.java) |
-| Capítulos 2 | Ordenação por Seleção | - | -|
+| Capítulos 2 | Ordenação por Seleção | [Anotações](./Capitulos/capitulo_02/anotacoes.md) | [Java](./Capitulos/capitulo_02/BuscaBinaria.java) |
 | Capítulos 3 | - | - | - |
