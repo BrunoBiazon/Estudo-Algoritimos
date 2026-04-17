@@ -3,7 +3,7 @@
 ## Tópicos abordados
 - Como funciona a memória.
 - Arrays e Listas encadeadas.
-- Ordenação por seleção.
+- **Ordenação por seleção**.
 
 ---
 
@@ -43,3 +43,9 @@
 ### Deleções de elementos
 - Segue o mesmo príncipio da Inserção.
 - Em arrays, é necessário tudo precisa ser movido caso delete algum elemento, enquano em listas encadeadas é necessário apenas mudar o endereço no qual o elemento anterior ao que foi deletado está apontando.
+
+## Ordenação por Seleção
+- Percorre por todos os elementos da lista => Tempo de execução O (n ao quadrado).
+- É um algoritmo bom, porém não é muito rápido.
+- Serve para ordenar as listas.
+- Sobre o código, basicamente são dois for clássicos, no qual o mais interior percorre a lista original e armazena o elemento com o determinado filtro para aquela aplicação. Com isso, o for "externo" vai montando a nova lista ordenada, retornando ao final de todas as etapas a nova lista pronta com a ordenação proposta.
